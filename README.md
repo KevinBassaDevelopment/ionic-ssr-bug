@@ -1,5 +1,5 @@
 # ionic-ssr-bug
-Repository for Issue #21203
+Repository for [Ionic Issue 21203](https://github.com/ionic-team/ionic/issues/21203). 
 
 How to reproduce the bug:
 
