@@ -5,6 +5,7 @@ How to reproduce the bug:
 **1) Working version:**
 
 -npm install
+
 -npm run prerender
 
 Result SUCCESS:
@@ -22,6 +23,7 @@ CREATE C:\_GIT\Examples\ionic-ssr-bug\www\browser\index.html (40978 bytes)
 **2) Introduce bug:**
 
 ng update @ionic/angular
+
 -->  Updating package.json with dependency @ionic/angular @ "5.1.0" (was "5.0.5")...
 
 -result:
